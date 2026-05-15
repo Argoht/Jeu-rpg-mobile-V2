@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="ItemData" load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://Scripts/Resources/ItemData.gd" id="1_itemdata"]
+[ext_resource type="Texture2D" path="res://Assets/Avatar/Equipment/Icons/epee_en_fer_icon.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_itemdata")
+id = "epee_en_fer"
+item_name = "Epee en fer"
+description = "Une epee solide, taillee pour les affrontements directs."
+item_type = 0
+icon = ExtResource("2_icon")
+base_power = 3
+stat_pool = PackedStringArray("STR", "AGI")

@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="ItemData" load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://Scripts/Resources/ItemData.gd" id="1_itemdata"]
+[ext_resource type="Texture2D" path="res://Assets/Avatar/Equipment/Icons/claquettes_de_boloss_icon.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_itemdata")
+id = "claquettes_de_boloss"
+item_name = "Claquettes de boloss"
+description = "Des claquettes bleues beaucoup trop visibles, parfaites pour avancer avec insolence."
+item_type = 4
+icon = ExtResource("2_icon")
+base_power = 1
+stat_pool = PackedStringArray("AGI", "STAMINA")

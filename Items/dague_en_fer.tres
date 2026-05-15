@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="ItemData" load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://Scripts/Resources/ItemData.gd" id="1_itemdata"]
+[ext_resource type="Texture2D" path="res://Assets/Avatar/Equipment/Icons/dague_en_fer_icon.png" id="2_icon"]
+
+[resource]
+script = ExtResource("1_itemdata")
+id = "dague_en_fer"
+item_name = "Dague en fer"
+description = "Une dague courte et nerveuse, parfaite pour frapper vite."
+item_type = 0
+icon = ExtResource("2_icon")
+base_power = 2
+stat_pool = PackedStringArray("AGI", "STR")
