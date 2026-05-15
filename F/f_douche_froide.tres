@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://f09dche"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_f09dc"]
+
+[resource]
+script = ExtResource("1_f09dc")
+id = "f_douche_froide"
+title = "Barrière Mentale"
+description = "Prendre une douche froide de 30 secondes."
+base_xp = 80

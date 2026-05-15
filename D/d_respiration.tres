@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d03resp"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d03rs"]
+
+[resource]
+script = ExtResource("1_d03rs")
+id = "d_respiration"
+title = "Cohérence Cardiaque"
+description = "Faire une session de cohérence cardiaque (5 minutes, 5 respirations/minute)."
+rank = 2
+req_wis = 6
+base_xp = 550
+reward_stat = 5
+reward_stat_amount = 1

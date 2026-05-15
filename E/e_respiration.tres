@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e02resp"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e02rs"]
+
+[resource]
+script = ExtResource("1_e02rs")
+id = "e_respiration"
+title = "Souffle Étendu"
+description = "Faire 10 minutes d'exercices de respiration contrôlée."
+rank = 1
+base_xp = 200
+reward_stat = 5
+reward_stat_amount = 1

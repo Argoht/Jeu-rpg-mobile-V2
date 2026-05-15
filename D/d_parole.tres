@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d08par"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d08pr"]
+
+[resource]
+script = ExtResource("1_d08pr")
+id = "d_parole"
+title = "Présence Croissante"
+description = "Prendre la parole devant plusieurs personnes."
+rank = 2
+req_cha = 8
+base_xp = 600
+reward_stat = 6
+reward_stat_amount = 1

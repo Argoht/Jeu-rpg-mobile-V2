@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e04cord"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e04cd"]
+
+[resource]
+script = ExtResource("1_e04cd")
+id = "e_corde_sauter"
+title = "Rythme du Combat"
+description = "Faire 3 séries de corde à sauter d'1 minute."
+rank = 1
+req_dex = 3
+base_xp = 220
+reward_stat = 2
+reward_stat_amount = 1

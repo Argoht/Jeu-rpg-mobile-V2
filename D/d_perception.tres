@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d10perc"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d10pc"]
+
+[resource]
+script = ExtResource("1_d10pc")
+id = "d_perception"
+title = "Lecture du Terrain"
+description = "Trouver 5 raccourcis ou optimisations dans ta routine quotidienne."
+rank = 2
+req_per = 8
+base_xp = 600
+reward_stat = 7
+reward_stat_amount = 1

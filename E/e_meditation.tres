@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e03medit"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e03md"]
+
+[resource]
+script = ExtResource("1_e03md")
+id = "e_meditation"
+title = "Silence Intérieur"
+description = "Méditer 15 minutes en restant immobile et en recentrant l'attention à chaque distraction."
+rank = 1
+base_xp = 230
+reward_stat = 8
+reward_stat_amount = 1

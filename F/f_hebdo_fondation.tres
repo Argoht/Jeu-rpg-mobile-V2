@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://fnw02fond"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_fnw02"]
+
+[resource]
+script = ExtResource("1_fnw02")
+id = "f_hebdo_fondation"
+title = "Fondation"
+description = "Réaliser une activité physique chaque jour pendant 5 jours consécutifs."
+type = 1
+base_xp = 600

@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://6jlrl2p3ldye"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_atcqw"]
+
+[resource]
+script = ExtResource("1_atcqw")
+id = "d_force"
+title = "Force"
+description = "Une séance de sport complète."
+rank = 2
+req_str = 10
+base_xp = 800

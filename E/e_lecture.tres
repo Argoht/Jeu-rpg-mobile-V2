@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://enw03lect"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_enw03"]
+
+[resource]
+script = ExtResource("1_enw03")
+id = "e_lecture"
+title = "Lecture"
+description = "Lire 30 minutes sans consulter son téléphone."
+rank = 1
+base_xp = 200
+reward_stat = 4
+reward_stat_amount = 1

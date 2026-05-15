@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://b856amlpnbnpw"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_xj5mx"]
+
+[resource]
+script = ExtResource("1_xj5mx")
+id = "d_hebdo_resistance"
+title = "Résistance"
+description = "Accomplir un effort physique intense inhabituel."
+rank = 2
+type = 1
+req_str = 12
+base_xp = 1200
+reward_stat = 1
+reward_stat_amount = 2

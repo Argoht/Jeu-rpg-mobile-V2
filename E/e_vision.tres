@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e06vis"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e06vs"]
+
+[resource]
+script = ExtResource("1_e06vs")
+id = "e_vision"
+title = "Vision Accrue"
+description = "Observer un lieu pendant 5 minutes et mémoriser tous les détails."
+rank = 1
+base_xp = 200
+reward_stat = 7
+reward_stat_amount = 1

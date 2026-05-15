@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://f07refl"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_f07rf"]
+
+[resource]
+script = ExtResource("1_f07rf")
+id = "f_reflexes"
+title = "Réflexes Naissants"
+description = "Faire rebondir une balle 50 fois sans la faire tomber."
+base_xp = 80

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://f08obs"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_f08ob"]
+
+[resource]
+script = ExtResource("1_f08ob")
+id = "f_observation"
+title = "Vision du Joueur"
+description = "Repérer et mémoriser 10 objets dans un lieu public."
+base_xp = 75

@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d0683ws1lb0eo"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_trx6l"]
+
+[resource]
+script = ExtResource("1_trx6l")
+id = "f_marche"
+title = "Marche"
+description = "Parcourir 2 km."
+base_xp = 100

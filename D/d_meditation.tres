@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://dnw05medit"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_dnw05"]
+
+[resource]
+script = ExtResource("1_dnw05")
+id = "d_meditation"
+title = "Pleine Conscience"
+description = "Méditer 20 minutes en se concentrant uniquement sur sa respiration."
+rank = 2
+req_wil = 7
+base_xp = 500
+reward_stat = 8
+reward_stat_amount = 1

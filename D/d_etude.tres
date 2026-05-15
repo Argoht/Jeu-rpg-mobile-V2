@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://bnuvtgbr0qd07"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_71ye4"]
+
+[resource]
+script = ExtResource("1_71ye4")
+id = "d_etude"
+title = "Étude"
+description = "Lire 20 pages ou 2 vidéos éducatives."
+rank = 2
+req_int = 10
+base_xp = 700

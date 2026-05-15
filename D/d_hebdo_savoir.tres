@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://dnw06saw"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_dnw06"]
+
+[resource]
+script = ExtResource("1_dnw06")
+id = "d_hebdo_savoir"
+title = "Acquisition du Savoir"
+description = "Compléter un cours en ligne ou lire un livre entier dans la semaine."
+rank = 2
+type = 1
+req_int = 12
+base_xp = 1500
+reward_stat = 4
+reward_stat_amount = 2

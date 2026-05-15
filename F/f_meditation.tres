@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://fnw01medit"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_fnw01"]
+
+[resource]
+script = ExtResource("1_fnw01")
+id = "f_meditation"
+title = "Méditation"
+description = "S'asseoir en silence et observer sa respiration pendant 10 minutes."
+base_xp = 90

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e08adp"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e08ad"]
+
+[resource]
+script = ExtResource("1_e08ad")
+id = "e_adaptation"
+title = "Adaptation Rapide"
+description = "Tester une nouvelle activité physique."
+rank = 1
+base_xp = 200

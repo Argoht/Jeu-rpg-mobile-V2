@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://bep7nhjpavdoa"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_tu6ap"]
+
+[resource]
+script = ExtResource("1_tu6ap")
+id = "f_discipline"
+title = "Discipline"
+description = "Aller en cours ou au travail."
+base_xp = 120

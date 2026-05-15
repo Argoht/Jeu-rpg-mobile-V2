@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d06hiit"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d06hi"]
+
+[resource]
+script = ExtResource("1_d06hi")
+id = "d_hiit"
+title = "Déplacement Fantôme"
+description = "Faire un entraînement HIIT de 15 minutes."
+rank = 2
+req_dex = 8
+base_xp = 700
+reward_stat = 2
+reward_stat_amount = 1

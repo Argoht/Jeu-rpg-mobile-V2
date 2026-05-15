@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://0rymbhq4tipa"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_w1834"]
+
+[resource]
+script = ExtResource("1_w1834")
+id = "f_reveil"
+title = "Réveil"
+description = "5 minutes d'étirements ou de réveil musculaire."
+base_xp = 80

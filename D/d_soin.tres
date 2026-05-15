@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://b8sx4jesvhicd"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_qd2va"]
+
+[resource]
+script = ExtResource("1_qd2va")
+id = "d_soin"
+title = "Soin de soi"
+description = "Entretien de la barbe/pilosité et style général."
+rank = 2
+base_xp = 250

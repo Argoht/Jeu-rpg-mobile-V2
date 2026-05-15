@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://e01dcfr"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_e01dc"]
+
+[resource]
+script = ExtResource("1_e01dc")
+id = "e_douche_froide"
+title = "Endurance Froide"
+description = "Terminer sa douche avec 1 minute entière d'eau froide."
+rank = 1
+base_xp = 180
+reward_stat = 8
+reward_stat_amount = 1

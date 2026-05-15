@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d02dcfr"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d02dc"]
+
+[resource]
+script = ExtResource("1_d02dc")
+id = "d_douche_froide"
+title = "Baptême du Froid"
+description = "Terminer sa douche avec 2 minutes entières d'eau froide."
+rank = 2
+req_wil = 6
+base_xp = 450
+reward_stat = 8
+reward_stat_amount = 1

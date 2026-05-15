@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="MissionData" format=3 uid="uid://d07wil"]
+
+[ext_resource type="Script" uid="uid://7q6sivsis1nj" path="res://Scripts/Resources/MissionData.gd" id="1_d07wl"]
+
+[resource]
+script = ExtResource("1_d07wl")
+id = "d_volonte_tache"
+title = "Volonté Acérée"
+description = "Finir une tâche importante sans interruption."
+rank = 2
+req_wil = 8
+base_xp = 600
+reward_stat = 8
+reward_stat_amount = 1
